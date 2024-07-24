@@ -1,0 +1,123 @@
+.landing-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-text {
+  text-decoration: none;
+}
+.landing-text002 {
+  text-decoration: none;
+}
+.landing-text004 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text005 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text006 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text007 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text016 {
+  text-align: center;
+}
+.landing-text017 {
+  text-align: center;
+}
+.landing-text033 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text034 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text035 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text036 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text037 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text038 {
+  font-style: normal;
+  font-weight: 600;
+}
+.landing-text039 {
+  text-align: center;
+}
+.landing-text040 {
+  text-align: center;
+}
+.landing-text043 {
+  text-align: center;
+}
+.landing-text044 {
+  font-size: 48px;
+}
+.landing-text045 {
+  font-size: 48px;
+}
+.landing-text046 {
+  font-size: 48px;
+}
+.landing-text048 {
+  font-size: 48px;
+}
+.landing-text051 {
+  font-size: 48px;
+}
+.landing-text054 {
+  font-size: 48px;
+}
+.landing-text090 {
+  text-align: center;
+}
+.landing-text091 {
+  text-align: center;
+}
+.landing-text092 {
+  text-align: center;
+}
+.landing-text093 {
+  text-align: center;
+}
+.landing-text094 {
+  text-align: left;
+}
+.landing-text095 {
+  text-align: left;
+}
+.landing-text096 {
+  text-align: left;
+}
+.landing-text097 {
+  text-align: left;
+}
+.landing-text098 {
+  text-align: center;
+}
+.landing-text110 {
+  text-align: center;
+}
+.landing-text111 {
+  text-align: center;
+}
+.landing-text121 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
