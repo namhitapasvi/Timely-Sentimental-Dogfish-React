@@ -24,12 +24,6 @@
   align-items: center;
   flex-direction: column;
 }
-.hero17-actions {
-  gap: var(--dl-space-space-unit);
-  display: flex;
-  align-items: flex-start;
-  padding-top: var(--dl-space-space-unit);
-}
 .hero17-content1 {
   gap: var(--dl-space-space-oneandhalfunits);
   width: 100%;
@@ -143,26 +137,16 @@
 .hero17-container1 {
   display: contents;
 }
-.hero17-text4 {
+.hero17-text2 {
+  display: inline-block;
   text-align: center;
 }
-.hero17-text7 {
+.hero17-text3 {
+  display: inline-block;
   text-align: center;
 }
 @media(max-width: 767px) {
   .hero17-content1 {
-    width: 100%;
-  }
-}
-@media(max-width: 479px) {
-  .hero17-actions {
-    width: 100%;
-    flex-direction: column;
-  }
-  .hero17-button {
-    width: 100%;
-  }
-  .hero17-button1 {
     width: 100%;
   }
 }

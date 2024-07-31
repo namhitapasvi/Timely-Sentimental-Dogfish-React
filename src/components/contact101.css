@@ -61,11 +61,25 @@
   align-items: flex-start;
   justify-content: center;
 }
+.contact101-text06 {
+  display: inline-block;
+}
+.contact101-text07 {
+  display: inline-block;
+}
 .contact101-text08 {
+  display: inline-block;
   text-align: center;
 }
+.contact101-text09 {
+  display: inline-block;
+}
 .contact101-text10 {
+  display: inline-block;
   text-align: center;
+}
+.contact101-text11 {
+  display: inline-block;
 }
 @media(max-width: 991px) {
   .contact101-content {

@@ -15,7 +15,7 @@ const CTA26 = (props) => {
                 <span>
                   {props.heading1 ?? (
                     <fragment>
-                      <span className="thq-heading-2">
+                      <span className="cta26-text5 thq-heading-2">
                         Join the Commonwealth AI Consortium today!
                       </span>
                     </fragment>
@@ -24,7 +24,7 @@ const CTA26 = (props) => {
                 <p>
                   {props.content1 ?? (
                     <fragment>
-                      <span className="thq-body-large">
+                      <span className="cta26-text3 thq-body-large">
                         Collaborate with global partners to drive AI innovation
                         and create societal impact.
                       </span>
@@ -40,7 +40,7 @@ const CTA26 = (props) => {
                   <span>
                     {props.action1 ?? (
                       <fragment>
-                        <span>Sign up now</span>
+                        <span className="cta26-text4">Sign up now</span>
                       </fragment>
                     )}
                   </span>

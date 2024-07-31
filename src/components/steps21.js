@@ -30,7 +30,9 @@ const Steps21 = (props) => {
               <h2>
                 {props.step1Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Choose Your Product</span>
+                    <span className="steps21-text15 thq-heading-2">
+                      Choose Your Product
+                    </span>
                   </fragment>
                 )}
               </h2>
@@ -50,7 +52,7 @@ const Steps21 = (props) => {
               <h2>
                 {props.step2Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="steps21-text17 thq-heading-2">
                       Customize Your Selection
                     </span>
                   </fragment>
@@ -72,7 +74,9 @@ const Steps21 = (props) => {
               <h2>
                 {props.step3Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Place Your Order</span>
+                    <span className="steps21-text22 thq-heading-2">
+                      Place Your Order
+                    </span>
                   </fragment>
                 )}
               </h2>
@@ -92,7 +96,9 @@ const Steps21 = (props) => {
               <h2>
                 {props.step4Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Enjoy Your Purchase</span>
+                    <span className="steps21-text21 thq-heading-2">
+                      Enjoy Your Purchase
+                    </span>
                   </fragment>
                 )}
               </h2>

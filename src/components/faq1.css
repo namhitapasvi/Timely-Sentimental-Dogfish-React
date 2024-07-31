@@ -1,0 +1,127 @@
+.faq1-faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.faq1-max-width {
+  gap: var(--dl-space-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.faq1-list-item1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item3 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item4 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item5 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-content1 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.faq1-container {
+  display: flex;
+  position: relative;
+}
+.faq1-text04 {
+  display: inline-block;
+}
+.faq1-text05 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text06 {
+  display: inline-block;
+}
+.faq1-text07 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text08 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text09 {
+  display: inline-block;
+}
+.faq1-text10 {
+  display: inline-block;
+}
+.faq1-text11 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text12 {
+  display: inline-block;
+}
+.faq1-text13 {
+  display: inline-block;
+}
+.faq1-text14 {
+  display: inline-block;
+}
+.faq1-text15 {
+  display: inline-block;
+  text-align: center;
+}
+.faq1-text16 {
+  display: inline-block;
+  text-align: center;
+}
+.faq1-text19 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text20 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .faq1-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+}
+@media(max-width: 767px) {
+  .faq1-list {
+    gap: var(--dl-space-space-twounits);
+  }
+  .faq1-button {
+    width: 100%;
+  }
+  .faq1-text15 {
+    text-align: left;
+  }
+}

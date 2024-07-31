@@ -35,7 +35,7 @@ const Hero171 = (props) => {
             <span>
               {props.action1 ?? (
                 <fragment>
-                  <span className="thq-body-small">Shop Now</span>
+                  <span className="hero171-text6 thq-body-small">Shop Now</span>
                 </fragment>
               )}
             </span>
@@ -44,7 +44,9 @@ const Hero171 = (props) => {
             <span>
               {props.action2 ?? (
                 <fragment>
-                  <span className="thq-body-small">Learn More</span>
+                  <span className="hero171-text4 thq-body-small">
+                    Learn More
+                  </span>
                 </fragment>
               )}
             </span>

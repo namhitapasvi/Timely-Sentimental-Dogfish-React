@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import PropTypes from 'prop-types'
 
@@ -10,9 +11,7 @@ const Steps2 = (props) => {
       <div className="steps2-max-width thq-section-max-width">
         <div className="steps2-container1 thq-grid-2">
           <div className="steps2-section-header">
-            <h2 className="thq-heading-2">
-              Discover the Power of Our Products
-            </h2>
+            <h2 className="thq-heading-2">INITIATIVES</h2>
             <p className="thq-body-large">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
@@ -20,9 +19,12 @@ const Steps2 = (props) => {
               libero vitae erat.
             </p>
             <div className="steps2-actions">
-              <button className="thq-button-animated thq-button-filled steps2-button">
-                <span className="thq-body-small">Main action</span>
-              </button>
+              <Link
+                to="/initiatives"
+                className="steps2-button thq-button-animated thq-button-filled"
+              >
+                <span className="thq-body-small">Learn More...</span>
+              </Link>
             </div>
           </div>
           <div className="steps2-container2">
@@ -30,14 +32,16 @@ const Steps2 = (props) => {
               <h2>
                 {props.step1Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Join the Consortium</span>
+                    <span className="steps2-text15 thq-heading-2">
+                      Join the Consortium
+                    </span>
                   </fragment>
                 )}
               </h2>
               <span>
                 {props.step1Description ?? (
                   <fragment>
-                    <span className="steps2-text17 thq-body-small">
+                    <span className="steps2-text13 thq-body-small">
                       Become a member of the Commonwealth AI Consortium to
                       collaborate with governments, private sectors, academics,
                       and researchers from across the Commonwealth.
@@ -45,13 +49,12 @@ const Steps2 = (props) => {
                   </fragment>
                 )}
               </span>
-              <label className="steps2-text05 thq-heading-3">01</label>
             </div>
             <div className="steps2-container4 thq-card">
               <h2>
                 {props.step2Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="steps2-text14 thq-heading-2">
                       Participate in Capacity Building
                     </span>
                   </fragment>
@@ -60,7 +63,7 @@ const Steps2 = (props) => {
               <span>
                 {props.step2Description ?? (
                   <fragment>
-                    <span className="steps2-text20 thq-body-small">
+                    <span className="steps2-text16 thq-body-small">
                       Engage in capacity building programs and skills
                       development initiatives to enhance your knowledge and
                       expertise in AI technologies.
@@ -68,13 +71,12 @@ const Steps2 = (props) => {
                   </fragment>
                 )}
               </span>
-              <label className="steps2-text08 thq-heading-3">02</label>
             </div>
             <div className="steps2-container5 thq-card">
               <h2>
                 {props.step3Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="steps2-text18 thq-heading-2">
                       Adopt Responsible AI Practices
                     </span>
                   </fragment>
@@ -83,20 +85,19 @@ const Steps2 = (props) => {
               <span>
                 {props.step3Description ?? (
                   <fragment>
-                    <span className="steps2-text21 thq-body-small">
+                    <span className="steps2-text17 thq-body-small">
                       Implement responsible AI governance frameworks to ensure
                       transparency, accountability, and equity in AI systems.
                     </span>
                   </fragment>
                 )}
               </span>
-              <label className="steps2-text11 thq-heading-3">03</label>
             </div>
             <div className="steps2-container6 thq-card">
               <h2>
                 {props.step4Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="steps2-text11 thq-heading-2">
                       Contribute to Global Challenges
                     </span>
                   </fragment>
@@ -105,7 +106,7 @@ const Steps2 = (props) => {
               <span>
                 {props.step4Description ?? (
                   <fragment>
-                    <span className="steps2-text16 thq-body-small">
+                    <span className="steps2-text12 thq-body-small">
                       Work together with international partners to address
                       global challenges effectively using AI innovation and
                       inclusive technologies.
@@ -113,7 +114,6 @@ const Steps2 = (props) => {
                   </fragment>
                 )}
               </span>
-              <label className="steps2-text14 thq-heading-3">04</label>
             </div>
           </div>
         </div>

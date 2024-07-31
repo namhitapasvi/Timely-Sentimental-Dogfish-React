@@ -132,6 +132,24 @@
   flex-direction: column;
   justify-content: center;
 }
+.features241-text {
+  display: inline-block;
+}
+.features241-text1 {
+  display: inline-block;
+}
+.features241-text2 {
+  display: inline-block;
+}
+.features241-text3 {
+  display: inline-block;
+}
+.features241-text4 {
+  display: inline-block;
+}
+.features241-text5 {
+  display: inline-block;
+}
 @media(max-width: 991px) {
   .features241-container1 {
     grid-gap: var(--dl-space-space-twounits);

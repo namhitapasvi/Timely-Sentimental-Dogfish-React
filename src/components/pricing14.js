@@ -115,7 +115,9 @@ const Pricing14 = (props) => {
                   <p>
                     {props.plan1Yearly ?? (
                       <fragment>
-                        <span className="thq-body-large">N/A</span>
+                        <span className="pricing14-text076 thq-body-large">
+                          N/A
+                        </span>
                       </fragment>
                     )}
                   </p>
@@ -128,7 +130,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan1Feature1 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text088 thq-body-small">
                             Access to AI resources
                           </span>
                         </fragment>
@@ -142,7 +144,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan1Feature2 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text074 thq-body-small">
                             Community support
                           </span>
                         </fragment>
@@ -156,7 +158,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan1Feature3 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text099 thq-body-small">
                             Limited access to training materials
                           </span>
                         </fragment>
@@ -169,7 +171,9 @@ const Pricing14 = (props) => {
                 <span>
                   {props.plan1Action ?? (
                     <fragment>
-                      <span className="thq-body-small">Sign Up</span>
+                      <span className="pricing14-text057 thq-body-small">
+                        Sign Up
+                      </span>
                     </fragment>
                   )}
                 </span>
@@ -199,7 +203,9 @@ const Pricing14 = (props) => {
                   <p>
                     {props.plan2Yearly ?? (
                       <fragment>
-                        <span className="thq-body-large">or $299 yearly</span>
+                        <span className="pricing14-text071 thq-body-large">
+                          or $299 yearly
+                        </span>
                       </fragment>
                     )}
                   </p>
@@ -212,7 +218,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature1 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text096 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -226,7 +232,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature2 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text079 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -240,7 +246,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature3 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text068 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -254,7 +260,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature4 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text083 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -267,7 +273,9 @@ const Pricing14 = (props) => {
                 <span>
                   {props.plan2Action ?? (
                     <fragment>
-                      <span className="thq-body-small">Get started</span>
+                      <span className="pricing14-text098 thq-body-small">
+                        Get started
+                      </span>
                     </fragment>
                   )}
                 </span>
@@ -297,7 +305,9 @@ const Pricing14 = (props) => {
                   <p>
                     {props.plan3Yearly ?? (
                       <fragment>
-                        <span className="thq-body-large">or $499 yearly</span>
+                        <span className="pricing14-text090 thq-body-large">
+                          or $499 yearly
+                        </span>
                       </fragment>
                     )}
                   </p>
@@ -310,7 +320,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature1 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text100 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -324,7 +334,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature2 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text091 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -338,7 +348,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature3 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text104 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -352,7 +362,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature4 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text065 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -366,7 +376,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature5 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text097 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -379,7 +389,9 @@ const Pricing14 = (props) => {
                 <span>
                   {props.plan3Action ?? (
                     <fragment>
-                      <span className="thq-body-small">Get started</span>
+                      <span className="pricing14-text066 thq-body-small">
+                        Get started
+                      </span>
                     </fragment>
                   )}
                 </span>
@@ -413,7 +425,9 @@ const Pricing14 = (props) => {
                   <span>
                     {props.plan1Yearly1 ?? (
                       <fragment>
-                        <span className="thq-body-large">N/A</span>
+                        <span className="pricing14-text085 thq-body-large">
+                          N/A
+                        </span>
                       </fragment>
                     )}
                   </span>
@@ -426,7 +440,9 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan1Feature11 ?? (
                         <fragment>
-                          <span className="thq-body-small">N/A</span>
+                          <span className="pricing14-text058 thq-body-small">
+                            N/A
+                          </span>
                         </fragment>
                       )}
                     </span>
@@ -438,7 +454,9 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan1Feature21 ?? (
                         <fragment>
-                          <span className="thq-body-small">N/A</span>
+                          <span className="pricing14-text081 thq-body-small">
+                            N/A
+                          </span>
                         </fragment>
                       )}
                     </span>
@@ -450,7 +468,9 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan1Feature31 ?? (
                         <fragment>
-                          <span className="thq-body-small">N/A</span>
+                          <span className="pricing14-text063 thq-body-small">
+                            N/A
+                          </span>
                         </fragment>
                       )}
                     </span>
@@ -461,7 +481,9 @@ const Pricing14 = (props) => {
                 <span>
                   {props.plan1Action1 ?? (
                     <fragment>
-                      <span className="thq-body-small">Get started</span>
+                      <span className="pricing14-text073 thq-body-small">
+                        Get started
+                      </span>
                     </fragment>
                   )}
                 </span>
@@ -491,7 +513,9 @@ const Pricing14 = (props) => {
                   <span>
                     {props.plan2Yearly1 ?? (
                       <fragment>
-                        <span className="thq-body-large">or $29 monthly</span>
+                        <span className="pricing14-text087 thq-body-large">
+                          or $29 monthly
+                        </span>
                       </fragment>
                     )}
                   </span>
@@ -504,7 +528,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature11 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text086 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -518,7 +542,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature21 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text072 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -532,7 +556,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature31 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text078 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -546,7 +570,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan2Feature41 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text092 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -559,7 +583,9 @@ const Pricing14 = (props) => {
                 <span>
                   {props.plan2Action1 ?? (
                     <fragment>
-                      <span className="thq-body-small">Get started</span>
+                      <span className="pricing14-text059 thq-body-small">
+                        Get started
+                      </span>
                     </fragment>
                   )}
                 </span>
@@ -589,7 +615,9 @@ const Pricing14 = (props) => {
                   <span>
                     {props.plan3Yearly1 ?? (
                       <fragment>
-                        <span className="thq-body-large">or $49 monthly</span>
+                        <span className="pricing14-text094 thq-body-large">
+                          or $49 monthly
+                        </span>
                       </fragment>
                     )}
                   </span>
@@ -602,7 +630,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature11 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text077 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -616,7 +644,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature21 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text095 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -630,7 +658,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature31 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text102 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -644,7 +672,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature41 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text093 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -658,7 +686,7 @@ const Pricing14 = (props) => {
                     <span>
                       {props.plan3Feature51 ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="pricing14-text080 thq-body-small">
                             Feature text goes here
                           </span>
                         </fragment>
@@ -671,7 +699,9 @@ const Pricing14 = (props) => {
                 <span>
                   {props.plan3Action1 ?? (
                     <fragment>
-                      <span className="thq-body-small">Get started</span>
+                      <span className="pricing14-text089 thq-body-small">
+                        Get started
+                      </span>
                     </fragment>
                   )}
                 </span>

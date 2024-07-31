@@ -6,118 +6,203 @@
   flex-direction: column;
 }
 .home-text {
+  display: inline-block;
   text-decoration: none;
 }
-.home-text002 {
+.home-text01 {
+  display: inline-block;
+}
+.home-text02 {
+  display: inline-block;
   text-decoration: none;
 }
-.home-text004 {
+.home-text03 {
+  display: inline-block;
+}
+.home-text04 {
+  display: inline-block;
   font-style: normal;
   font-weight: 600;
 }
-.home-text005 {
+.home-text05 {
+  display: inline-block;
   font-style: normal;
   font-weight: 600;
 }
-.home-text006 {
+.home-text06 {
+  display: inline-block;
   font-style: normal;
   font-weight: 600;
 }
-.home-text007 {
+.home-text07 {
+  display: inline-block;
   font-style: normal;
   font-weight: 600;
 }
-.home-text016 {
+.home-text08 {
+  display: inline-block;
+}
+.home-text09 {
+  display: inline-block;
+}
+.home-text10 {
+  display: inline-block;
+}
+.home-text11 {
+  display: inline-block;
+}
+.home-text12 {
+  display: inline-block;
+}
+.home-text13 {
+  display: inline-block;
+}
+.home-text14 {
+  display: inline-block;
+}
+.home-text15 {
+  display: inline-block;
   text-align: center;
 }
-.home-text017 {
+.home-text16 {
+  display: inline-block;
   text-align: center;
 }
-.home-text033 {
-  font-style: normal;
-  font-weight: 600;
+.home-text18 {
+  display: inline-block;
 }
-.home-text034 {
-  font-style: normal;
-  font-weight: 600;
+.home-text19 {
+  display: inline-block;
 }
-.home-text035 {
-  font-style: normal;
-  font-weight: 600;
+.home-text20 {
+  display: inline-block;
 }
-.home-text036 {
-  font-style: normal;
-  font-weight: 600;
+.home-text21 {
+  display: inline-block;
 }
-.home-text037 {
-  font-style: normal;
-  font-weight: 600;
+.home-text22 {
+  display: inline-block;
 }
-.home-text038 {
-  font-style: normal;
-  font-weight: 600;
+.home-text23 {
+  display: inline-block;
 }
-.home-text039 {
+.home-text24 {
+  display: inline-block;
+}
+.home-text25 {
+  display: inline-block;
+}
+.home-text26 {
+  display: inline-block;
+  font-size: 32px;
+}
+.home-text27 {
+  display: inline-block;
+}
+.home-text28 {
+  display: inline-block;
+}
+.home-text29 {
+  display: inline-block;
+}
+.home-text30 {
+  display: inline-block;
   text-align: center;
 }
-.home-text040 {
+.home-text33 {
+  display: inline-block;
   text-align: center;
 }
-.home-text043 {
+.home-text34 {
+  display: inline-block;
   text-align: center;
 }
-.home-text044 {
-  font-size: 48px;
-}
-.home-text045 {
-  font-size: 48px;
-}
-.home-text046 {
-  font-size: 48px;
-}
-.home-text048 {
-  font-size: 48px;
-}
-.home-text051 {
-  font-size: 48px;
-}
-.home-text054 {
-  font-size: 48px;
-}
-.home-text090 {
+.home-text35 {
+  display: inline-block;
   text-align: center;
 }
-.home-text091 {
-  text-align: center;
-}
-.home-text092 {
-  text-align: center;
-}
-.home-text093 {
-  text-align: center;
-}
-.home-text094 {
+.home-text36 {
+  display: inline-block;
   text-align: left;
 }
-.home-text095 {
+.home-text37 {
+  display: inline-block;
   text-align: left;
 }
-.home-text096 {
+.home-text38 {
+  display: inline-block;
   text-align: left;
 }
-.home-text097 {
+.home-text39 {
+  display: inline-block;
   text-align: left;
 }
-.home-text098 {
+.home-text40 {
+  display: inline-block;
+}
+.home-text41 {
+  display: inline-block;
+}
+.home-text42 {
+  display: inline-block;
+}
+.home-text43 {
+  display: inline-block;
+}
+.home-text44 {
+  display: inline-block;
+}
+.home-text45 {
+  display: inline-block;
+}
+.home-text46 {
+  display: inline-block;
+}
+.home-text47 {
+  display: inline-block;
+}
+.home-text48 {
+  display: inline-block;
+}
+.home-text49 {
+  display: inline-block;
+}
+.home-text50 {
+  display: inline-block;
   text-align: center;
 }
-.home-text110 {
-  text-align: center;
+.home-text51 {
+  display: inline-block;
 }
-.home-text111 {
-  text-align: center;
+.home-text52 {
+  display: inline-block;
 }
-.home-text121 {
+.home-text53 {
+  display: inline-block;
+}
+.home-text54 {
+  display: inline-block;
+}
+.home-text55 {
+  display: inline-block;
+}
+.home-text56 {
+  display: inline-block;
+}
+.home-text57 {
+  display: inline-block;
+}
+.home-text58 {
+  display: inline-block;
+}
+.home-text59 {
+  display: inline-block;
+}
+.home-text60 {
+  display: inline-block;
+}
+.home-text61 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
 }

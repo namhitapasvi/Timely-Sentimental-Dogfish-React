@@ -91,17 +91,33 @@
   font-style: normal;
   font-weight: 700;
 }
+.steps21-text15 {
+  display: inline-block;
+}
 .steps21-text16 {
+  display: inline-block;
   text-align: center;
 }
+.steps21-text17 {
+  display: inline-block;
+}
 .steps21-text18 {
+  display: inline-block;
   text-align: center;
 }
 .steps21-text19 {
+  display: inline-block;
   text-align: center;
 }
 .steps21-text20 {
+  display: inline-block;
   text-align: center;
+}
+.steps21-text21 {
+  display: inline-block;
+}
+.steps21-text22 {
+  display: inline-block;
 }
 @media(max-width: 991px) {
   .steps21-max-width {

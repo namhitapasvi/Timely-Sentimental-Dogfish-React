@@ -46,7 +46,7 @@ const Features241 = (props) => {
               <h2>
                 {props.feature1Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="features241-text4 thq-heading-2">
                       Product Power Unleashed
                     </span>
                   </fragment>
@@ -55,7 +55,7 @@ const Features241 = (props) => {
               <span>
                 {props.feature1Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features241-text3 thq-body-small">
                       Explore the full potential of our products
                     </span>
                   </fragment>
@@ -76,14 +76,16 @@ const Features241 = (props) => {
               <h2>
                 {props.feature2Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Intuitive Design</span>
+                    <span className="features241-text5 thq-heading-2">
+                      Intuitive Design
+                    </span>
                   </fragment>
                 )}
               </h2>
               <span>
                 {props.feature2Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features241-text2 thq-body-small">
                       Efficient and user-friendly interface
                     </span>
                   </fragment>
@@ -104,7 +106,7 @@ const Features241 = (props) => {
               <h2>
                 {props.feature3Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="features241-text thq-heading-2">
                       Advanced Functionality
                     </span>
                   </fragment>
@@ -113,7 +115,7 @@ const Features241 = (props) => {
               <span>
                 {props.feature3Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features241-text1 thq-body-small">
                       Detailed insights into product capabilities
                     </span>
                   </fragment>

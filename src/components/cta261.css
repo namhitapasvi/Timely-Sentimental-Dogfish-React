@@ -53,6 +53,15 @@
   align-items: flex-start;
   justify-content: flex-end;
 }
+.cta261-text3 {
+  display: inline-block;
+}
+.cta261-text4 {
+  display: inline-block;
+}
+.cta261-text5 {
+  display: inline-block;
+}
 @media(max-width: 767px) {
   .cta261-container1 {
     gap: var(--dl-space-space-oneandhalfunits);

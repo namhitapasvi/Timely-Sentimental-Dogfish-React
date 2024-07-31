@@ -21,14 +21,16 @@ const Features25 = (props) => {
               <h2>
                 {props.feature1Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Capacity Building</span>
+                    <span className="features25-text5 thq-heading-2">
+                      Capacity Building
+                    </span>
                   </fragment>
                 )}
               </h2>
               <span>
                 {props.feature1Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features25-text thq-body-small">
                       Empowering individuals and organizations with the
                       knowledge and skills to harness the potential of AI.
                     </span>
@@ -48,14 +50,16 @@ const Features25 = (props) => {
               <h2>
                 {props.feature2Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Ethical Standards</span>
+                    <span className="features25-text3 thq-heading-2">
+                      Ethical Standards
+                    </span>
                   </fragment>
                 )}
               </h2>
               <span>
                 {props.feature2Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features25-text1 thq-body-small">
                       Promoting ethical guidelines and best practices to ensure
                       AI technologies are developed and used responsibly.
                     </span>
@@ -75,7 +79,7 @@ const Features25 = (props) => {
               <h2>
                 {props.feature3Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="features25-text2 thq-heading-2">
                       Inclusive Technologies
                     </span>
                   </fragment>
@@ -84,7 +88,7 @@ const Features25 = (props) => {
               <span>
                 {props.feature3Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features25-text4 thq-body-small">
                       Advocating for the development of AI solutions that are
                       accessible and beneficial to all members of society.
                     </span>

@@ -23,14 +23,16 @@ const Features251 = (props) => {
               <h2>
                 {props.feature1Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">Product Showcase</span>
+                    <span className="features251-text2 thq-heading-2">
+                      Product Showcase
+                    </span>
                   </fragment>
                 )}
               </h2>
               <span>
                 {props.feature1Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features251-text4 thq-body-small">
                       Highlight your products in a visually appealing way to
                       showcase their power.
                     </span>
@@ -52,7 +54,7 @@ const Features251 = (props) => {
               <h2>
                 {props.feature2Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="features251-text thq-heading-2">
                       Step-by-Step Directions
                     </span>
                   </fragment>
@@ -61,7 +63,7 @@ const Features251 = (props) => {
               <span>
                 {props.feature2Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features251-text3 thq-body-small">
                       Provide clear directions on how to use the products
                       effectively to maximize their potential.
                     </span>
@@ -83,7 +85,7 @@ const Features251 = (props) => {
               <h2>
                 {props.feature3Title ?? (
                   <fragment>
-                    <span className="thq-heading-2">
+                    <span className="features251-text1 thq-heading-2">
                       TeleportHQ Integration
                     </span>
                   </fragment>
@@ -92,7 +94,7 @@ const Features251 = (props) => {
               <span>
                 {props.feature3Description ?? (
                   <fragment>
-                    <span className="thq-body-small">
+                    <span className="features251-text5 thq-body-small">
                       Seamlessly integrate TeleportHQ to create stunning landing
                       pages for your products with ease.
                     </span>

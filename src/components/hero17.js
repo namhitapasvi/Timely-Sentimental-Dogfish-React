@@ -13,7 +13,7 @@ const Hero17 = (props) => {
           <h1>
             {props.heading1 ?? (
               <fragment>
-                <span className="hero17-text7 thq-heading-1">
+                <span className="hero17-text3 thq-heading-1">
                   Empowering AI Innovation Across the Commonwealth
                 </span>
               </fragment>
@@ -22,7 +22,7 @@ const Hero17 = (props) => {
           <p>
             {props.content1 ?? (
               <fragment>
-                <span className="hero17-text4 thq-body-large">
+                <span className="hero17-text2 thq-body-large">
                   Join us in shaping the future of AI by collaborating with
                   governments, industries, and academia to drive innovation,
                   economic growth, and societal benefits.
@@ -30,26 +30,6 @@ const Hero17 = (props) => {
               </fragment>
             )}
           </p>
-        </div>
-        <div className="hero17-actions">
-          <button className="thq-button-filled hero17-button">
-            <span>
-              {props.action1 ?? (
-                <fragment>
-                  <span className="thq-body-small">Join the Consortium</span>
-                </fragment>
-              )}
-            </span>
-          </button>
-          <button className="thq-button-outline hero17-button1">
-            <span>
-              {props.action2 ?? (
-                <fragment>
-                  <span className="thq-body-small">Learn More</span>
-                </fragment>
-              )}
-            </span>
-          </button>
         </div>
       </div>
       <div className="hero17-content1">
@@ -224,7 +204,6 @@ Hero17.defaultProps = {
   image4Alt: 'Hero Image',
   content1: undefined,
   image8Alt: 'Hero Image',
-  action1: undefined,
   image10Alt: 'Hero Image',
   image1Alt: 'Hero Image',
   image5Src:
@@ -242,7 +221,6 @@ Hero17.defaultProps = {
   image11Alt: 'Hero Image',
   image2Src:
     'https://images.unsplash.com/photo-1552083974-186346191183?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDE1fHxhYnN0cmFjdHxlbnwwfHx8fDE3MTA4NzA5MzB8MA&ixlib=rb-4.0.3&w=1500',
-  action2: undefined,
   image3Src:
     'https://images.unsplash.com/photo-1574169208507-84376144848b?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDN8fGFic3RyYWN0fGVufDB8fHx8MTcxMDg3MDkzMHww&ixlib=rb-4.0.3&w=1500',
   image12Alt: 'Hero Image',
@@ -266,7 +244,6 @@ Hero17.propTypes = {
   image4Alt: PropTypes.string,
   content1: PropTypes.element,
   image8Alt: PropTypes.string,
-  action1: PropTypes.element,
   image10Alt: PropTypes.string,
   image1Alt: PropTypes.string,
   image5Src: PropTypes.string,
@@ -278,7 +255,6 @@ Hero17.propTypes = {
   image9Src: PropTypes.string,
   image11Alt: PropTypes.string,
   image2Src: PropTypes.string,
-  action2: PropTypes.element,
   image3Src: PropTypes.string,
   image12Alt: PropTypes.string,
   image7Src: PropTypes.string,

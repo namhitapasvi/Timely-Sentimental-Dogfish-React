@@ -13,14 +13,16 @@ const Contact101 = (props) => {
             <h2>
               {props.heading1 ?? (
                 <fragment>
-                  <span className="thq-heading-2">Contact Us</span>
+                  <span className="contact101-text09 thq-heading-2">
+                    Contact Us
+                  </span>
                 </fragment>
               )}
             </h2>
             <p>
               {props.content1 ?? (
                 <fragment>
-                  <span className="thq-body-large">
+                  <span className="contact101-text06 thq-body-large">
                     Have a question or need support? Reach out to us!
                   </span>
                 </fragment>
@@ -47,7 +49,7 @@ const Contact101 = (props) => {
             <p>
               {props.location1Description ?? (
                 <fragment>
-                  <span className="thq-body-large">
+                  <span className="contact101-text07 thq-body-large">
                     123 Main Street, City, Country
                   </span>
                 </fragment>
@@ -82,7 +84,7 @@ const Contact101 = (props) => {
             <p>
               {props.location2Description ?? (
                 <fragment>
-                  <span className="thq-body-large">
+                  <span className="contact101-text11 thq-body-large">
                     For any inquiries or assistance, contact our support team.
                   </span>
                 </fragment>

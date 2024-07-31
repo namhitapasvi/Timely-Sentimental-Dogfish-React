@@ -1,0 +1,122 @@
+.contact-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.contact-text {
+  display: inline-block;
+  text-decoration: none;
+}
+.contact-text01 {
+  display: inline-block;
+}
+.contact-text02 {
+  display: inline-block;
+  text-decoration: none;
+}
+.contact-text03 {
+  display: inline-block;
+}
+.contact-text04 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.contact-text05 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.contact-text06 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.contact-text07 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.contact-text08 {
+  display: inline-block;
+}
+.contact-text09 {
+  display: inline-block;
+}
+.contact-text10 {
+  display: inline-block;
+}
+.contact-text11 {
+  display: inline-block;
+}
+.contact-text12 {
+  display: inline-block;
+}
+.contact-text13 {
+  display: inline-block;
+}
+.contact-text14 {
+  display: inline-block;
+}
+.contact-text15 {
+  display: inline-block;
+}
+.contact-text16 {
+  display: inline-block;
+}
+.contact-text17 {
+  display: inline-block;
+}
+.contact-text18 {
+  display: inline-block;
+}
+.contact-text22 {
+  display: inline-block;
+}
+.contact-text25 {
+  display: inline-block;
+}
+.contact-text26 {
+  display: inline-block;
+}
+.contact-text27 {
+  width: 45%;
+  display: inline-block;
+  text-align: center;
+}
+.contact-text28 {
+  display: inline-block;
+}
+.contact-text29 {
+  display: inline-block;
+}
+.contact-text30 {
+  display: inline-block;
+}
+.contact-text31 {
+  display: inline-block;
+}
+.contact-text32 {
+  display: inline-block;
+}
+.contact-text33 {
+  display: inline-block;
+}
+.contact-text34 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .contact-text27 {
+    width: 100%;
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .contact-text22 {
+    text-align: center;
+  }
+}

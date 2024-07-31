@@ -143,10 +143,18 @@
 .hero171-container1 {
   display: contents;
 }
+.hero171-text4 {
+  display: inline-block;
+}
 .hero171-text5 {
+  display: inline-block;
   text-align: center;
 }
+.hero171-text6 {
+  display: inline-block;
+}
 .hero171-text7 {
+  display: inline-block;
   text-align: center;
 }
 @media(max-width: 767px) {

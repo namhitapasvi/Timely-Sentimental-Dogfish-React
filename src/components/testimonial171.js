@@ -12,7 +12,9 @@ const Testimonial171 = (props) => {
           <h2>
             {props.heading1 ?? (
               <fragment>
-                <span className="thq-heading-2">Customer Testimonials</span>
+                <span className="testimonial171-text21 thq-heading-2">
+                  Customer Testimonials
+                </span>
               </fragment>
             )}
           </h2>
@@ -44,14 +46,16 @@ const Testimonial171 = (props) => {
                     <strong>
                       {props.author1Name ?? (
                         <fragment>
-                          <span className="thq-body-large">John Doe</span>
+                          <span className="testimonial171-text27 thq-body-large">
+                            John Doe
+                          </span>
                         </fragment>
                       )}
                     </strong>
                     <span>
                       {props.author1Position ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="testimonial171-text26 thq-body-small">
                             CEO, Company ABC
                           </span>
                         </fragment>
@@ -89,14 +93,16 @@ const Testimonial171 = (props) => {
                     <strong>
                       {props.author2Name ?? (
                         <fragment>
-                          <span className="thq-body-large">Jane Smith</span>
+                          <span className="testimonial171-text15 thq-body-large">
+                            Jane Smith
+                          </span>
                         </fragment>
                       )}
                     </strong>
                     <span>
                       {props.author2Position ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="testimonial171-text22 thq-body-small">
                             Marketing Manager, Company XYZ
                           </span>
                         </fragment>
@@ -134,7 +140,7 @@ const Testimonial171 = (props) => {
                     <strong>
                       {props.author3Name ?? (
                         <fragment>
-                          <span className="thq-body-large">
+                          <span className="testimonial171-text19 thq-body-large">
                             Michael Johnson
                           </span>
                         </fragment>
@@ -143,7 +149,7 @@ const Testimonial171 = (props) => {
                     <span>
                       {props.author3Position ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="testimonial171-text24 thq-body-small">
                             CTO, Tech Solutions Inc.
                           </span>
                         </fragment>
@@ -181,14 +187,16 @@ const Testimonial171 = (props) => {
                     <strong>
                       {props.author4Name ?? (
                         <fragment>
-                          <span className="thq-body-large">Sarah Williams</span>
+                          <span className="testimonial171-text17 thq-body-large">
+                            Sarah Williams
+                          </span>
                         </fragment>
                       )}
                     </strong>
                     <span>
                       {props.author4Position ?? (
                         <fragment>
-                          <span className="thq-body-small">
+                          <span className="testimonial171-text25 thq-body-small">
                             Creative Director, Design Studio
                           </span>
                         </fragment>

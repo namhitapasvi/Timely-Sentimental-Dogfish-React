@@ -132,6 +132,24 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
+.features251-text {
+  display: inline-block;
+}
+.features251-text1 {
+  display: inline-block;
+}
+.features251-text2 {
+  display: inline-block;
+}
+.features251-text3 {
+  display: inline-block;
+}
+.features251-text4 {
+  display: inline-block;
+}
+.features251-text5 {
+  display: inline-block;
+}
 @media(max-width: 991px) {
   .features251-container1 {
     grid-gap: var(--dl-space-space-twounits);

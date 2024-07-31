@@ -15,7 +15,7 @@ const CTA261 = (props) => {
                 <span>
                   {props.heading1 ?? (
                     <fragment>
-                      <span className="thq-heading-2">
+                      <span className="cta261-text4 thq-heading-2">
                         Experience the Power of TeleportHQ
                       </span>
                     </fragment>
@@ -24,7 +24,7 @@ const CTA261 = (props) => {
                 <p>
                   {props.content1 ?? (
                     <fragment>
-                      <span className="thq-body-large">
+                      <span className="cta261-text5 thq-body-large">
                         Discover our innovative products and revolutionize your
                         workflow today.
                       </span>
@@ -40,7 +40,7 @@ const CTA261 = (props) => {
                   <span>
                     {props.action1 ?? (
                       <fragment>
-                        <span>Get Started</span>
+                        <span className="cta261-text3">Get Started</span>
                       </fragment>
                     )}
                   </span>
